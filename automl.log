@@ -2,3 +2,4 @@
 2020-10-01 16:33:18.295 - INFO - 35868 - azureml.train.automl.automlconfig._start_execution:245 - Submitting remote.
 2020-10-01 16:34:03.240 - INFO - 35868 - azureml.train.automl.automlconfig._start_execution:245 - Submitting remote.
 2020-10-01 16:34:04.781 - INFO - 35868 - azureml.train.automl.automlconfig._start_execution:245 - Submitting remote.
+2020-10-01 16:36:58.617 - INFO - 32784 - azureml.train.automl.automlconfig._start_execution:245 - Submitting remote.
